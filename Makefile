@@ -122,6 +122,33 @@ CProgram/fast:
 	$(MAKE) -f CMakeFiles\CProgram.dir\build.make CMakeFiles/CProgram.dir/build
 .PHONY : CProgram/fast
 
+Sample.obj: Sample.c.obj
+
+.PHONY : Sample.obj
+
+# target to build an object file
+Sample.c.obj:
+	$(MAKE) -f CMakeFiles\CProgram.dir\build.make CMakeFiles/CProgram.dir/Sample.c.obj
+.PHONY : Sample.c.obj
+
+Sample.i: Sample.c.i
+
+.PHONY : Sample.i
+
+# target to preprocess a source file
+Sample.c.i:
+	$(MAKE) -f CMakeFiles\CProgram.dir\build.make CMakeFiles/CProgram.dir/Sample.c.i
+.PHONY : Sample.c.i
+
+Sample.s: Sample.c.s
+
+.PHONY : Sample.s
+
+# target to generate assembly for a file
+Sample.c.s:
+	$(MAKE) -f CMakeFiles\CProgram.dir\build.make CMakeFiles/CProgram.dir/Sample.c.s
+.PHONY : Sample.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... CProgram
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Sample.obj
+	@echo ... Sample.i
+	@echo ... Sample.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

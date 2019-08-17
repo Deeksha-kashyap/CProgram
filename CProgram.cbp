@@ -74,6 +74,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Deeksha Kashyap/CLionProject/CProgram/Sample.c">
+			<Option target="CProgram"/>
+		</Unit>
 		<Unit filename="C:/Users/Deeksha Kashyap/CLionProject/CProgram/main.c">
 			<Option target="CProgram"/>
 		</Unit>
