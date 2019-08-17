@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/Deeksha Kashyap/CLionProject/CProgram/Sample.c" "C:/Users/Deeksha Kashyap/CLionProject/CProgram/CMakeFiles/CProgram.dir/Sample.c.obj"
   "C:/Users/Deeksha Kashyap/CLionProject/CProgram/main.c" "C:/Users/Deeksha Kashyap/CLionProject/CProgram/CMakeFiles/CProgram.dir/main.c.obj"
+  "C:/Users/Deeksha Kashyap/CLionProject/CProgram/test.c" "C:/Users/Deeksha Kashyap/CLionProject/CProgram/CMakeFiles/CProgram.dir/test.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

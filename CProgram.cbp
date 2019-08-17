@@ -80,6 +80,9 @@
 		<Unit filename="C:/Users/Deeksha Kashyap/CLionProject/CProgram/main.c">
 			<Option target="CProgram"/>
 		</Unit>
+		<Unit filename="C:/Users/Deeksha Kashyap/CLionProject/CProgram/test.c">
+			<Option target="CProgram"/>
+		</Unit>
 		<Unit filename="C:/Users/Deeksha Kashyap/CLionProject/CProgram/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
